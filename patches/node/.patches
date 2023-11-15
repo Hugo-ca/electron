@@ -44,3 +44,4 @@ test_fix_edge_snapshot_stack_traces.patch
 chore_remove_use_of_deprecated_kmaxlength.patch
 src_avoid_copying_string_in_fs_permission.patch
 chore_remove_allcan_read_write_from_setaccessor.patch
+fix_missing_include_for_node_extern.patch
